@@ -70,7 +70,7 @@ The platform enables users to create AI-generated scripts, synthesize realistic 
 
 ### Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](home%20page.jpg)
 
 ---
 
